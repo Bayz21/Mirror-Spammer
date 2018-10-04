@@ -1,2 +1,2 @@
-# Zone-DB-Spammer
-Spam Zone-DB with Fake Defacement
+# Mirror Website Spammer
+Fake Website spamming to mirror website
